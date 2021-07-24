@@ -1,0 +1,17 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "practica to do list con la consola",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon node"
+  },
+  "author": "alejandro harris",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.4",
+    "yargs": "^15.4.1"
+  }
+}
